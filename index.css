@@ -1,0 +1,106 @@
+h1{
+    color: rgb(27, 115, 209);
+    font-style: italic;
+    font-size: 3em;
+    text-align: center;
+  
+}
+
+p {
+color: rgb(255,84,167);
+font-family: sans-serif;
+line-weight: 1.5em;
+}
+
+body {
+background-color: rgb(230,230,230);
+font-size: 22px;
+}
+table {
+color: blue;
+margin: 82px;
+font-size: 18px;
+}
+
+ul {color: rgb(255,84,167);
+font-family: sans-serif
+
+}
+.pubs {
+color: red;
+}
+h3{
+background-color: rgb(224, 149, 36);
+}
+#controversy-text{
+color: red;
+}
+h6{ color: black;
+}
+h4{ text-align: right;
+opacity: 0.50
+}
+#users {
+background: pink;
+width: 270px;
+height: 50px;
+border: double;
+position: absolute;
+z-index: 1;
+top: 85px;
+right: 1145px;
+}
+.title {
+border: dotted rgb(255,84,167);
+
+}
+.contro: hover {
+backgound-color: red;
+color: white;
+}
+#listsong { 
+overflow-y:scroll; 
+position: fixed;
+height: 190px;
+width: 160px;
+background: pink;
+border: dotted;
+font: italic 19px fantasy;
+line-weight: 25px;
+top: 160px;
+      left: 123px
+
+}
+
+h2 {
+opacity: 40%;
+text-decoration: underline;
+text-align: center;
+}
+#margn {
+border: 145px solid pink;
+border-top: 60px;
+padding: 159px;
+}
+
+
+.picture{
+opacity: 10%;
+position: absolute;
+z-index: -1;
+margin: auto;
+}
+ol {
+color: rgb(255,84,167);
+font-family: sans-serif;
+
+}
+a:hover {
+color:rgb(255,84,167) ;
+}
+a:visited {
+color:black
+}
+.danger{
+color: red;
+}
